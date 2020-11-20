@@ -1,11 +1,4 @@
-# calculator.py
-# The program displays a usable calculator for the user. The calculator
-# has all of the basic functions that you would find on a standard
-# windows computer
-#
-# Written by: Nelson Cook
-#
-# November 13, 2020
+
 
 
 from graphics import *
